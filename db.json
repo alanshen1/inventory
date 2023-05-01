@@ -1,24 +1,29 @@
 {
   "products": [
-    {
-      "ProductCode": "GC1040",
-      "InventoryNumber": "OK"
-    },
-    {
-      "ProductCode": "GC1020",
-      "InventoryNumber": "NG"
-    },
-    {
-      "ProductCode": "GC5060",
-      "InventoryNumber": "NG"
-    },
-        {
-          "ProductCode": "GC5040",
-          "InventoryNumber": "NG"
+     {
+        "ProductName": "GenWatt Diesel 200kW",
+        "ProductCode": "GC1040",
+        "InventoryStatus": "OK"
+      },
+      {
+        "ProductName": "GenWatt Diesel 10kW",
+        "ProductCode": "GC1020",
+        "InventoryStatus": "NG"
         },
+        {
+          "ProductName": "GenWatt Gasoline 2000kW",
+          "ProductCode": "GC5060",
+          "InventoryStatus": "NG"
+        },
+        {
+          "ProductName": "GenWatt Gasoline 750kW",
+          "ProductCode": "GC5040",
+          "InventoryStatus": "NG"
+         },
          {
+          "ProductName": "GenWatt Propane 500kW",
       		"ProductCode": "GC3040",
-      		"InventoryNumber": "NG"
+      		"InventoryStatus": "NG"
     	}
   	]
   }
